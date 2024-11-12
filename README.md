@@ -12,12 +12,13 @@ I am a skilled and passionate software engineer specializing in backend developm
 - Deployment using Firebase, Heroku, and Railway
 
 ## 🚀 My Experience
-I'm a dedicated problem-solver with a keen attention to detail. I thrive in collaborative team environments and have experience developing and maintaining web applications. I'm committed to continuous learning and growth and am always looking for opportunities to challenge myself.
+I'm a dedicated problem-solver with a keen attention to detail. I thrive in collaborative team environments and have experience developing and maintaining web applications. I'm committed to continuous learning and growth and always seek opportunities to challenge myself.
 
 Feel free to explore my [GitHub repositories](https://github.com/onajifortune) for examples of my work and projects utilizing my diverse skill set.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onajifortune&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
 
+<!--
 ## 🌱 Learning
 My goal is to contribute to the growth of a dynamic company by utilizing my skills and passion for software engineering. If you're looking for a skilled, innovative, and driven software engineer to join your team, please don't hesitate to contact me.
 
@@ -31,10 +32,11 @@ My goal is to contribute to the growth of a dynamic company by utilizing my skil
 Some of the projects I've done include:
 - Simpleblog-API: A RESTful API built with Django and Django REST framework (DRF) that provides endpoints for managing a simple blogging application. Check it out [here](https://github.com/onajifortune/SimpleBlog-API)
 - Reader: A project that allows anonymous users to view a list of available books on the homepage and search for books based on title, author, or summary. Check it out [here](https://github.com/onajifortune/LocalLibrary)
-- NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/onajifortune/NotInk)
+- NotInk: A note-taking project done with Django. Here is the link to the repo [here](https://github.com/onajifortune/NotInk)
 - A blog site. (made with flask). Check it out [here](https://github.com/onajifortune/My-Blog)
 - A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/onajifortune/Tindog_Website)
-- Musical Time Machine (Python). CHeck it out [here](https://github.com/onajifortune/Muscial-TIme-Machine)
+- Musical Time Machine (Python). Check it out [here](https://github.com/onajifortune/Muscial-TIme-Machine)
+-->
 
 
 ## My Skills
