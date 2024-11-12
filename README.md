@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Adewole</h1>
+<h1 align="center">Hi 👋, I'm Onaji Fortune</h1>
 
 ## About Me
 I am a skilled and passionate software engineer specializing in backend development with over 2 years of experience, building scalable and efficient web applications. I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
@@ -25,7 +25,7 @@ My goal is to contribute to the growth of a dynamic company by utilizing my skil
 
 - 💬 Ask me about **Python, JavaScript, Django, Flask**
 
-- 📫 How to reach me **adedaniel5042@gmail.com**
+- 📫 How to reach me **onajifortunejnr@gmail.com**
 
 ## 🔭 Projects
 Some of the projects I've done include:
@@ -65,18 +65,18 @@ Some of the projects I've done include:
   <a href="https://github.com/onajifortune" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.twitter.com/AdewoleDaniel15" target="_blank">
+  <a href="https://www.twitter.com/FortuneOnaji" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/dan-t-adewole/" target="_blank">
+  <a href="www.linkedin.com/in/fortune-onaji-24a72b228/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/daniel.adewole.504" target="_blank">
+<!--   <a href="https://www.facebook.com/" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://hashnode.com/@DanielAdewole" target="_blank">
+  </a> -->
+<!--   <a href="https://hashnode.com/" target="_blank">
     <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-   </a>  
+   </a>   -->
 </div>
 
 ## Github Stats
@@ -92,7 +92,7 @@ Some of the projects I've done include:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=onajifortune)](https://git.io/streak-stats)
 <!-- Extra pins
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=onajifortune&show_icons=true&theme=radical) -->
+<!-- ![Fortune's GitHub stats](https://github-readme-stats.vercel.app/api?username=onajifortune&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onajifortune&layout=compact) -->
 <!-- <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=onajifortune&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" />
