@@ -5,7 +5,7 @@ I am a skilled and passionate software engineer specializing in backend developm
 
 ## 💻 My Expertise
 - Backend development with Django, Flask, and Python
-- Front-end development with HTML, CSS, Bootstrap, and JavaScript
+- Front-end development with HTML, CSS, Bootstrap, TypeScript and JavaScript
 - Database design and implementation with PostgreSql
 - Version control with Git for collaborative development
 - Testing with Selenium, PyTest
@@ -81,7 +81,7 @@ Some of the projects I've done include:
    </a>   -->
 </div>
 
-## Github Stats
+<!-- ## Github Stats
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onajifortune&show_icons=true&theme=radical&rank_icon=percentile" />
 </a>
@@ -92,6 +92,7 @@ Some of the projects I've done include:
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=onajifortune)](https://git.io/streak-stats)
+-->
 <!-- Extra pins
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Fortune's GitHub stats](https://github-readme-stats.vercel.app/api?username=onajifortune&show_icons=true&theme=radical) -->
