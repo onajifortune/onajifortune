@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onaji Fortune</h1>
+<h1 align="center">Hi 👋, I'm Fortune (Tron)</h1>
 
 ## About Me
 I am a skilled and passionate software engineer specializing in backend development with over 2 years of experience, building scalable and efficient web applications. I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
